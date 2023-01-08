@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Ardacanuysal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<br />
+<div align="center">
+<img src="https://github.com/Ardacanuysal/DailyApp/blob/main/CalendarExampleTutorial-main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-01-08%20at%2009.54.03.png?raw=true" width="100%"  />
 
-<!---
-Ardacanuysal/Ardacanuysal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+</div>
